@@ -1,0 +1,217 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "name": "Bhavana",
+      "email": "bhavana@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "John",
+      "email": "john@abc.com",
+      "password": "nnn",
+      "id": 3
+    },
+    {
+      "name": "Arjun",
+      "email": "arjun@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "Bhavana",
+      "email": "vhgch@gf",
+      "password": "66776",
+      "id": 5
+    },
+    {
+      "name": "kjbjyhvh",
+      "email": "hvjhg",
+      "password": "uybgjy",
+      "id": 6
+    },
+    {
+      "name": "vhgv",
+      "email": "hvjg",
+      "password": "kjbjhv",
+      "id": 7
+    },
+    {
+      "name": "fgf",
+      "email": "dfb",
+      "password": "bgb",
+      "id": 8
+    },
+    {
+      "name": "ashutosh",
+      "email": "ashutosh@gmail.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "Ashitosh ",
+      "email": "ad@gmail.com",
+      "password": "123",
+      "id": 10
+    },
+    {
+      "name": "Jonathan ",
+      "email": "jon@gmail.com",
+      "password": "jon",
+      "id": 10
+    }
+  ],
+  "UserTemplate": [
+    {
+      "nameField": "ababababababa",
+      "fatherNameField": "sssssssssssss",
+      "addressField": "ssssssssssss",
+      "stateField": "ssssssssssss",
+      "id": 1
+    },
+    {
+      "nameField": "Arjun Sharma",
+      "fatherNameField": "Ramesh Sharma",
+      "addressField": "Nagpur",
+      "stateField": "Maharashtra",
+      "emailField": "Arjun Sharma",
+      "ageField": "Arjun Sharma",
+      "birthdayField": "Arjun Sharma",
+      "contactField": "Arjun Sharma",
+      "genderField": "Arjun Sharma",
+      "languageSelect": "Arjun Sharma",
+      "nationalityField": "Indian",
+      "maritalStatusField": "Unmarried",
+      "tenthField": "97",
+      "twelthField": "88",
+      "graduationField": "76",
+      "id": 2
+    },
+    {
+      "nameField": "Rahul Patil",
+      "fatherNameField": "sssssssssssss",
+      "addressField": "ssssssssssss",
+      "stateField": "dfvfd",
+      "emailField": "Rahul Patil",
+      "ageField": "Rahul Patil",
+      "birthdayField": "Rahul Patil",
+      "contactField": "Rahul Patil",
+      "genderField": "Rahul Patil",
+      "languageSelect": "Rahul Patil",
+      "nationalityField": "fdvdfv",
+      "maritalStatusField": "vdfvfdv",
+      "tenthField": "11",
+      "twelthField": "11",
+      "graduationField": "11",
+      "id": 3
+    },
+    {
+      "nameField": "Vikrant Bhujbal",
+      "fatherNameField": "Vijay",
+      "addressField": "Pooja Palace, PCMC",
+      "stateField": "Maharashtra",
+      "emailField": "vik@gmail.com",
+      "ageField": "26",
+      "birthdayField": "1995-04-12",
+      "contactField": "7020438609",
+      "nationalityField": "Indian",
+      "maritalStatusField": "Unmarried",
+      "hobbyField": "Reading",
+      "tenthField": "85.45",
+      "twelthField": "76.77",
+      "graduationField": "72",
+      "id": 5
+    },
+    {
+      "nameField": "Vikrant Bhujbal",
+      "fatherNameField": "Vijay",
+      "addressField": "Pooja Palace, PCMC",
+      "stateField": "Maharashtra",
+      "emailField": "vik@gmail.com",
+      "ageField": "26",
+      "birthdayField": "1995-04-12",
+      "contactField": "7020438609",
+      "nationalityField": "Indian",
+      "maritalStatusField": "Unmarried",
+      "hobbyField": "Reading, Writing",
+      "tenthField": "85.45",
+      "twelthField": "76.33",
+      "graduationField": "70.2",
+      "id": 6
+    },
+    {
+      "nameField": "Naruto Uzumaki",
+      "fatherNameField": "jgvhtcfythgh",
+      "addressField": "Hidden Leaf Village",
+      "stateField": "Land of Fire",
+      "emailField": "narutoUz@gmail.com",
+      "ageField": "24",
+      "birthdayField": "2022-01-31",
+      "contactField": "7020438609",
+      "nationalityField": "Shinobi",
+      "maritalStatusField": "Married",
+      "hobbyField": "Ramen, Pranks",
+      "tenthField": "70",
+      "twelthField": "50",
+      "graduationField": "80",
+      "id": 7
+    },
+    {
+      "nameField": "Naruto Uzumaki",
+      "fatherNameField": "abcdefg",
+      "addressField": "Hidden Leaf Village",
+      "stateField": "Land of Fire",
+      "emailField": "narutoUz@gmail.com",
+      "ageField": "24",
+      "birthdayField": "2022-01-31",
+      "contactField": "7020438609",
+      "nationalityField": "Shinobi",
+      "maritalStatusField": "Married",
+      "hobbyField": "Ramen, Pranks",
+      "tenthField": "70",
+      "twelthField": "50",
+      "graduationField": "80",
+      "id": 8
+    },
+    {
+      "nameField": "Jonathan",
+      "fatherNameField": "Marks",
+      "addressField": "London",
+      "stateField": "Madhya Pradesh",
+      "emailField": "jon@gmail.com",
+      "ageField": "25",
+      "birthdayField": "2022-02-01",
+      "contactField": "9011097845",
+      "nationalityField": "Indian",
+      "maritalStatusField": "Unmarried",
+      "hobbyField": "Reading, cricket",
+      "tenthField": "11",
+      "twelthField": "22",
+      "graduationField": "33",
+      "id": 9
+    },
+    {
+      "nameField": "Aaaaaa",
+      "fatherNameField": "bbbbbbbbbbbbb",
+      "addressField": "cccccccccccccc",
+      "stateField": "ddddddddddddddddd",
+      "email": "ad@gmail.com",
+      "ageField": "21",
+      "birthdayField": "2022-02-02",
+      "contactField": "7020438609",
+      "nationalityField": "Indian",
+      "maritalStatusField": "Unmarried",
+      "hobbyField": "Reading",
+      "tenthField": "10",
+      "twelthField": "11",
+      "graduationField": "12",
+      "id": 10
+    }
+  ]
+}
